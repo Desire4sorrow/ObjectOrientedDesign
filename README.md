@@ -11,8 +11,11 @@ As for settings, you need to start and download
 
 At first, you need to download this repository or clone it. 
 Start Pycharm and open project.
+
 ![image](https://user-images.githubusercontent.com/56004655/114364075-b71ab780-9b81-11eb-80ec-ba2a472e3b34.png)
+
 Add  interpretator from folder
+
 ![image](https://user-images.githubusercontent.com/56004655/114364247-e0d3de80-9b81-11eb-9ffb-f85668cba86f.png)
 
 Take "Run" and check objects, file "output.txt"
